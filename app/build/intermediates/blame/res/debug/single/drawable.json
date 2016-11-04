@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/build/intermediates/res/merged/debug/drawable/pizzaexpress.png",
+        "source": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/src/main/res/drawable/pizzaexpress.png"
+    },
+    {
+        "merged": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/build/intermediates/res/merged/debug/drawable/bg.png",
+        "source": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/src/main/res/drawable/bg.png"
+    },
+    {
+        "merged": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/src/main/res/drawable/icon.png"
+    }
+]

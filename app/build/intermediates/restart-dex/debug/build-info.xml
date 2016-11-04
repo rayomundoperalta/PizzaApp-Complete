@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="719539309447958"
+    token="5053663618218497358"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="696" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="100" />
+    <task
+        name="verifier"
+        duration="18" />
+
+    <artifact
+        location="/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="719539309447958"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

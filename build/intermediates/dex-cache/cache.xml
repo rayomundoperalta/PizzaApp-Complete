@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/libs/PayPal_MPL.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f86daf3bf8e0ab13020a8752ee3bb00a7883bbe9">
+        <dex dex="/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/build/intermediates/pre-dexed/debug/PayPal_MPL_aeb5dcbc96ff4a6915fa8754c084f40b25d476b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dd915f2a0c657f6323da520b4042c462e9018454">
+        <dex dex="/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/build/intermediates/pre-dexed/debug/instant-run_519ef5cb1d31c094a144b9d5d50c003b827ba9eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b2642b102e8a0afcb498b472c663c116477df78d">
+        <dex dex="/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_264d7b96879f78c3dbbe1c5059dddcc3c6c1b897.jar" />
+    </item>
+
+</items>

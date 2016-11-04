@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/build/intermediates/res/merged/debug/layout/review.xml",
+        "source": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/src/main/res/layout/review.xml"
+    },
+    {
+        "merged": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/build/intermediates/res/merged/debug/layout/finalize.xml",
+        "source": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/src/main/res/layout/finalize.xml"
+    },
+    {
+        "merged": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/build/intermediates/res/merged/debug/layout/results.xml",
+        "source": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/src/main/res/layout/results.xml"
+    },
+    {
+        "merged": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/build/intermediates/res/merged/debug/layout/customize.xml",
+        "source": "/Users/rayo/AndroidStudioProjects/PizzaApp-Complete/app/src/main/res/layout/customize.xml"
+    }
+]
